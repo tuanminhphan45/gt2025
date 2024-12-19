@@ -4,9 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: PHAN NGUYEN TUAN MINH
 
-Student ID: USTH-ID.
+Student ID: 22BI13307
 
 ===
 
