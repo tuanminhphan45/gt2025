@@ -64,10 +64,10 @@ D = Vertex('D')
 
 AB = Edge((A, B))
 BC = Edge((B, C))
-CD = Edge((C, D))
+CD = Edge((B, D))
 
 graph = Graph([A, B, C, D], [AB, BC, CD])
 
 
-print(Path_Existence(graph, 'B', 'A'))  # return false because  no connection between B and A
-print(Path_Existence(graph, 'A', 'C'))  # return true because there is a connection between A and C
+print(Path_Existence(graph, 'B', 'A'))  
+print(Path_Existence(graph, 'A', 'D'))  
